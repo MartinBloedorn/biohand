@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name biohand_fp)(type KiCad)(uri C:\Users\Martin\Dropbox\biohand-elt\biohand_main_board\biohand_fp.pretty)(options "")(descr ""))
+)
